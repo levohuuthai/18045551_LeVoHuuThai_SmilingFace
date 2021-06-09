@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814047701289",
+    "project_id": "androidtuan9-d9016",
+    "storage_bucket": "androidtuan9-d9016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814047701289:android:c01ce53890087896df6f38",
+        "android_client_info": {
+          "package_name": "com.example.levohuuthai_tuan9_firebasett"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814047701289-20o32h84r6edqqil4vs1d0q378okca0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM_yEO_rI4rcGj04ZKJZF0Otm-HigTWE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814047701289-20o32h84r6edqqil4vs1d0q378okca0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
